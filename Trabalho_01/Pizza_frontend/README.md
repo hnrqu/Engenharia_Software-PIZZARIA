@@ -4,18 +4,6 @@ entrega de pedidos para uma pizzaria. Utilizaremos em nossa aplicação Spring B
 
 ## Instalação
 
-Use o seguinte comando para importar o backend à sua máquina:
-
-```bash
-git clone https://github.com/Henrique-coelho/engsoftware-pizzaria-backend.git
-```
-
-E o seguinte comando para importar o frontend à sua máquina:
-
-```bash
-git clone https://github.com/MyLittleFoxxie/engsoftware-pizzaria-frontend.git
-```
-
 Lembre de realizar a instalação do JDK 11 e node.js em sua máquina!
 
 Para instalar o banco de dados MySQL que utilizaremos, siga os seguintes passos:
